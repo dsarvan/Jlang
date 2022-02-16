@@ -2,7 +2,8 @@
 # File: binary.jl
 # Name: D.Saravanan
 # Date: 19/08/2021
-# Program to convert number from base 10 to base 2
+
+""" Program to convert number from base 10 to base 2 """
 
 print("Enter number (base 10): ")
 
